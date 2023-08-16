@@ -1,5 +1,5 @@
-# Quizmaster_Flask 800+ questions to become a Network legend.
-Ever dreamed about examinating yourself about Networking through a Python web application? Well, today dreams can be programmed into a certain reality.
+# Quizmaster_Flask 800+ questions to become a networking legend.
+Ever dreamed about examinating yourself about Networking through a Python web application? Well, today the dreams are programmed into a certain reality.
 
 # Install flask through pip
 
