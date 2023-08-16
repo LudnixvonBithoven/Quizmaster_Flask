@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="terminal">
+    <h1>Quiz Result</h1>
+    <p>Your score: {{ score }}/{{ total_questions }}</p>
+    <p>Thank you for taking the quiz!</p>
+    {% if wrong_questions %}
+    <h2>Incorrect Answers:</h2>
+    <ul>
+        {% for question in wrong_questions %}
+        <li>{{ question }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+</div>
+{% endblock %}
+

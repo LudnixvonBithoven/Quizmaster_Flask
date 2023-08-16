@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="terminal">
+    <p>{{ question }}</p>
+    <form method="POST">
+        {% for option in options %}
+        <p><input type="radio" name="option" value="{{ loop.index0 }}" required> {{ option }}</p>
+        {% endfor %}
+        <br>
+        <button type="submit" name="action" value="submit">Submit</button>
+        <button type="submit" name="action" value="next" formnovalidate>Next</button>
+    </form>
+    {% with messages = get_flashed_messages() %}
+    {% if messages %}
+    <div class="messages">
+        {% for message in messages %}
+        <p class="success">{{ message }}</p>
+        {% endfor %}
+    </div>
+    {% endif %}
+    {% endwith %}
+    <p>Questions Remaining: {{ questions_remaining }}</p>
+</div>
+{% endblock %}
+
