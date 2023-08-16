@@ -9,3 +9,4 @@ $ pip install flask
 $ python quiz_app.py
 
 - Comments in the applications will be a futuristic reality.
+- Sorry for the lazy upload.
