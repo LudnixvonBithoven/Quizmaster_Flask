@@ -8,4 +8,4 @@ $ pip install flask
 # Start the Quizmaster
 $ python quiz_app.py
 
-# Start learning
+- Comments in the applications will be a futuristic reality.
