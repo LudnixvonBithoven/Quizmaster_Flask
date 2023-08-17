@@ -1,9 +1,9 @@
 
 Copyright (c) 2023 Ludnixvonithoven
 
-The software is for educational purposes only, and 
-forbid publishing without crediting the owner, distribute,
-sublicense, monetize, and/or sell copies without permission.
+The software is created for educational purposes only, and forbid 
+any opportunistic intentions like monetizating by publishing,
+distributing, sublicensing, and/or sell copies without permission.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
