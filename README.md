@@ -8,5 +8,5 @@ $ pip install flask
 # Start the Quizmaster
 $ python quiz_app.py
 
-- Comments in the applications will be a futuristic reality.
+- Comments in the code will be a futuristic reality.
 - Sorry for the lazy upload.
