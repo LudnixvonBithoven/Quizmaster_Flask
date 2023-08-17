@@ -1,9 +1,9 @@
 
 Copyright (c) 2023 Ludnixvonithoven
 
-The purpose of the software is to guide in educational intentions only, and 
-forbid publishing without crediting the owner, distribute, sublicense, monetize,
-and/or sell copies without permission.
+The software is for educational purposes only, and 
+forbid publishing without crediting the owner, distribute,
+sublicense, monetize, and/or sell copies without permission.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
